@@ -1,0 +1,3 @@
+#Wed Jul 20 00:54:10 BST 2022
+motionblur=true
+raindropsOnScreen=false
