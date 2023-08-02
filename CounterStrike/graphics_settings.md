@@ -1,19 +1,19 @@
 # Graphics Settings
 ## 4:3 Settings
-**Aspect ratio**: 4:3 Normal<br>
-**Resolution**: 1280x1024<br>
-**Display mode**: Fullscreen<br>
-**Global shadow quality**: High<br>
-**Model/texture detail**: High<br>
-**Texture streaming**: Enabled<br>
-**Effect detail**: High<br>
-**Shader detail**: Very High<br>
-**Boost player contrast**: Enabled<br>
-**Multicore rendering**: Enabled<br>
-**Multisampling anti-aliasing mode**: 8x MSAA<br>
-**FXAA anti-aliasing**: Disabled<br>
-**Texture filtering mode**: Anisotropic 16x<br>
-**Wait for vsync**: Disabled<br>
-**Motion blur**: Disabled<br>
-**Triple monitor mode**: Disabled<br>
-**User uber shaders**: Disabled<br>
+**Aspect ratio**: _4:3 Normal_<br>
+**Resolution**: _1280x1024_<br>
+**Display mode**: _Fullscreen_<br>
+**Global shadow quality**: _High_<br>
+**Model/texture detail**: _High_<br>
+**Texture streaming**: _Enabled_<br>
+**Effect detail**: _High_<br>
+**Shader detail**: _Very High_<br>
+**Boost player contrast**: _Enabled_<br>
+**Multicore rendering**: _Enabled_<br>
+**Multisampling anti-aliasing mode**: _8x MSAA_<br>
+**FXAA anti-aliasing**: _Disabled_<br>
+**Texture filtering mode**: _Anisotropic 16x_<br>
+**Wait for vsync**: _Disabled_<br>
+**Motion blur**: _Disabled_<br>
+**Triple monitor mode**: _Disabled_<br>
+**User uber shaders**: _Disabled_<br>
