@@ -1,1 +1,1 @@
-Config:<br>16:9 sensitivityu: 10<br>4:3 sensitivity: 9.5
+Config:<br>16:9 sensitivity: 10<br>4:3 sensitivity: 9.5
