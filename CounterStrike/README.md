@@ -1,6 +1,6 @@
 # Config
 The game's launch options automatically executes [autoexec4by3.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/autoexec4by3.cfg), to overwrite it type "exec [name of file]" into the console.<br>Ensure "host_writeconfig" is at the end of the cfg file.
-## Sensitivites
+## Sensitivities
 16:9 sensitivity: 10<br>4:3 sensitivity: 9.5<br>Zoom sensitivity: 0.754331
 ## Graphics Settings
 Graphics settings for each aspect ratio are in the [graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._**
