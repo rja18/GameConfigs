@@ -5,6 +5,7 @@ The game's launch options automatically executes [autoexec4by3.cfg](https://gith
 ## Graphics Settings
 Graphics settings for each aspect ratio are in the [graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._**
 ## Crosshair
+![Screenshot of crosshair](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/crosshair_screenshot.jpg)
 ### Settings configuration:
 **Crosshair Style**: _Classic static_   (_cl\_crosshairstyle "4"_)<br>
 **Center Dot**: _No_   (_cl\_crosshairdot "0"_)<br>
