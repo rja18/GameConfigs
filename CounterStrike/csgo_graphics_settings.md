@@ -34,4 +34,4 @@
 **Wait for vsync**: _Disabled_<br>
 **Motion blur**: _Disabled_<br>
 **Triple monitor mode**: _Disabled_<br>
-**User uber shaders**: _Disabled_<br>
+**Use uber shaders**: _Disabled_
