@@ -15,7 +15,7 @@ Graphics settings for each aspect ratio (CSGO) are in the [csgo_graphics_setting
 ![Screenshot of crosshair](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Images/crosshair_screenshot.jpg)<br>
 _Crosshair code: CSGO-f7kaq-6qwsj-LxjQe-HOsNc-LFR7B_
 ### Settings configuration:
-[Text file of commands list](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Raw%20Text/crosshair_commands.txt).<br>
+_[Text file of commands list](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Raw%20Text/crosshair_commands.txt)._<br>
 **Crosshair Style**: _Classic static_   (_cl\_crosshairstyle "4"_)<br>
 **Center Dot**: _No_   (_cl\_crosshairdot "0"_)<br>
 **Length**: _2.0_   (_cl\_crosshairsize "2"_)<br>
