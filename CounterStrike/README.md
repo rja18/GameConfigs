@@ -8,7 +8,7 @@ Launch options exluding config executions:<br>
 ## General Settings
 General settings (not binds, viewmodel or crosshair) are in the [settings_config.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Configs/settings_config.cfg) file.
 ## Graphics Settings
-Graphics settings for each aspect ratio are in the [graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._**
+Graphics settings for each aspect ratio (CSGO) are in the [csgo_graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/csgo_graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._**
 ## Crosshair
 ![Screenshot of crosshair](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/crosshair_screenshot.jpg)<br>
 _Crosshair code: CSGO-f7kaq-6qwsj-LxjQe-HOsNc-LFR7B_
