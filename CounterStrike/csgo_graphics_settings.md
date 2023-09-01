@@ -16,7 +16,7 @@
 **Wait for vsync**: _Disabled_<br>
 **Motion blur**: _Disabled_<br>
 **Triple monitor mode**: _Disabled_<br>
-**User uber shaders**: _Disabled_<br>
+**Use uber shaders**: _Disabled_<br>
 ## 16:9 Settings
 **Aspect ratio**: _Widescreen 16:9_<br>
 **Resolution**: _1920x1080_<br>
