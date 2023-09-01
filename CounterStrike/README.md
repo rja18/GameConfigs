@@ -2,7 +2,9 @@
 The game's launch options automatically executes [autoexec4by3.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Configs/autoexec4by3.cfg), to overwrite it type "exec [name of file]" into the console.<br>Ensure "host_writeconfig" is at the end of the cfg file.
 ## Launch Options
 Launch options exluding config executions:<br>
-`-tickrate 128 +fps_max 0 -novid -nojoy`
+`-tickrate 128 +fps_max 0 -novid -nojoy`<br>
+Current config executions:<br>
+`+exec autoexec4by3.cfg +exec settings_config.cfg`
 ## Sensitivities
 16:9 sensitivity: 10<br>4:3 sensitivity: 9.5<br>Zoom sensitivity: 0.754331
 ## General Settings
