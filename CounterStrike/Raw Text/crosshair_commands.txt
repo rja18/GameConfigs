@@ -1,6 +1,5 @@
 Code: CSGO-f7kaq-6qwsj-LxjQe-HOsNc-LFR7B
 
---
 cl_crosshairstyle "4"
 cl_crosshairdot "0"
 cl_crosshairsize "2"
@@ -17,4 +16,3 @@ cl_crosshairgap_useweaponvalue "0"
 cl_show_observer_crosshair "2"
 cl_crosshaircolor "5"
 cl_crosshair_sniper_width "1"
---
