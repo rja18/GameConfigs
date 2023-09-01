@@ -5,6 +5,8 @@ Launch options exluding config executions:<br>
 `-tickrate 128 +fps_max 0 -novid -nojoy`
 ## Sensitivities
 16:9 sensitivity: 10<br>4:3 sensitivity: 9.5<br>Zoom sensitivity: 0.754331
+## General Settings
+General settings (not binds, viewmodel or crosshair) are in the [settings_config.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/settings_config.cfg) file.
 ## Graphics Settings
 Graphics settings for each aspect ratio are in the [graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._**
 ## Crosshair
