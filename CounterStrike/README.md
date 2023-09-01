@@ -10,7 +10,7 @@ General settings (not binds, viewmodel or crosshair) are in the [settings_config
 ## Graphics Settings
 Graphics settings for each aspect ratio (CSGO) are in the [csgo_graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/csgo_graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._**
 ## Crosshair
-![Screenshot of crosshair](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/crosshair_screenshot.jpg)<br>
+![Screenshot of crosshair](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Images/crosshair_screenshot.jpg)<br>
 _Crosshair code: CSGO-f7kaq-6qwsj-LxjQe-HOsNc-LFR7B_
 ### Settings configuration:
 **Crosshair Style**: _Classic static_   (_cl\_crosshairstyle "4"_)<br>
