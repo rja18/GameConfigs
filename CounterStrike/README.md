@@ -1,3 +1,4 @@
+_Note to self: probably should move crosshair commands to settings config._
 # Config
 The game's launch options automatically executes [autoexec4by3.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Configs/autoexec4by3.cfg), to overwrite it type "exec [name of file]" into the console.<br>Ensure "host_writeconfig" is at the end of the cfg file.
 ## Launch Options
