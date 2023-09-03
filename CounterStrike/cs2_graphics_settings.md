@@ -2,4 +2,4 @@
 _Subject to change._<br>Getting fairly consistent ~100 FPS on these settings.<br>
 ![Resolution settings](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Images/cs2_resolution.jpg)
 ![Advancd settings](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Images/cs2_advanced_graphics.jpg)<br>
-Apparently Nvidia low latency setting is bugged and + boost doesn't work.
+Apparently Nvidia low latency setting is bugged and + boost doesn't work, and boost player contrast has a significant performance reduction so that's disabled for the time being.
