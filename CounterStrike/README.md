@@ -7,7 +7,8 @@ Launch options excluding config executions:<br>
 Current config executions:<br>
 `+exec autoexec4by3.cfg +exec settings_config.cfg`
 ## Sensitivities
-16:9 sensitivity: 10<br>4:3 sensitivity: 9.5<br>Zoom sensitivity: 0.754331
+_Updated for CS2 (30/9/2023)._
+16:9 sensitivity: 10<br>4:3 sensitivity: 6.5<br>Zoom sensitivity: 0.75
 ## General Settings
 General settings (not binds, viewmodel or crosshair) are in the [settings_config.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Configs/settings_config.cfg) file.
 ## Graphics Settings
