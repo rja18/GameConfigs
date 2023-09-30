@@ -12,7 +12,7 @@ _Updated for CS2 (30/9/2023)._<br>
 ## General Settings
 General settings (not binds, viewmodel or crosshair) are in the [settings_config.cfg](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Configs/settings_config.cfg) file.
 ## Graphics Settings
-Graphics settings for each aspect ratio (CSGO) are in the [csgo_graphics_settings.md](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/csgo_graphics_settings.md) file.<br>**_They might need updating for CS2 after it releases._** ([CS2 settings](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/cs2_graphics_settings.md))
+CS2 Graphics Settings for 4:3 can be found [here](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/cs2_graphics_settings.md).
 ## Crosshair
 ![Screenshot of crosshair](https://github.com/rja2006/GameConfigs/blob/main/CounterStrike/Images/crosshair_screenshot.jpg)<br>
 _Crosshair code: CSGO-f7kaq-6qwsj-LxjQe-HOsNc-LFR7B_
