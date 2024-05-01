@@ -76,6 +76,7 @@ bind e "+use"
 bind g "drop"
 bind q "lastinv"
 bind f "+lookatweapon"
+bind h "switchhands"
 
 bind mwheelup "invprev"
 bind mwheeldown "invnext"
